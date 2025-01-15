@@ -1,3 +1,8 @@
 body{
   background-color:#fefbd8
 }
+
+#sky{
+    postion:relative:
+    left:100px;
+}
